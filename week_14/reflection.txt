@@ -1,0 +1,36 @@
+Please respond thoroughly (at least two sentences for each question) to
+the following three questions.
+
+1. Describe an experience you had this semester where you saw the power of
+functions.
+
+    This semester I was able to see the power of functions through their
+    reusability and organization benefits, which was around the time
+    when the assignments started to get more complex. Having the capacity 
+    to divide almost every single part of my program into functions allowed 
+    me to much better comprehend and manage my code in a way that was both 
+    intuitive and that made me feel in control. 
+
+2. In your judgment, what is the value of test functions?
+
+    The value of test functions comes from their ability to quickly and 
+    accurately assess if a function works as intended. They simplify the 
+    process of finding errors within said functions and save time by 
+    automatically performing all the scenarios that the programmer 
+    specified for it to check.
+
+3. Describe your process for troubleshooting and fixing a program that
+has a problem. What is one thing you can do to improve your process?
+
+    When troubleshooting, I usually read the error message first to get
+    a clue of what might be causing the problem. If that doesn't give me
+    what I need to fix it or if there is no error message, I go through 
+    the code and look for the section that handles the result that presents
+    the problem. I analyze it to make sure that I comprehend it first,
+    then if the fix doesn't seem apparent I would just experiment with it
+    until I get it fixed.
+
+    One thing I could do to improve my process of troubleshooting would be 
+    to isolate the section that I believe contains the problem and check 
+    each part one at a time. 
+
